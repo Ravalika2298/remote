@@ -17,8 +17,4 @@ If you own the repo, and you generated a PAT, then check:
 Verify remote URL
 Run:
 
-bash
-Copy
-Edit
-git remote -v
-You should see:
+
